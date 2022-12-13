@@ -35,7 +35,7 @@
     "debug": "^4.1.1",
     "ember-codemods-telemetry-helpers": "^3.0.0",
     "ember-template-recast": "^3.3.2",
-    "puppeteer": "^18.1.0",
+    "puppeteer": "^18.1.0"
   },
   "devDependencies": {
     "@types/chalk": "^2.2.0",
